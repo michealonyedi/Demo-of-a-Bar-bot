@@ -13,7 +13,7 @@ def greetings():
     time.sleep(3)
     print("welcome to suncity eatry and bar")
     time.sleep(3)
-    print("please! what's your name sir?")
+    print("please! what is your name sir?")
     name = input("enter your name here for future recognition:\n")
     time.sleep(2)
     print(f"welcome {name}! to suncity eatry and bar")
