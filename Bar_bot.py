@@ -8,6 +8,8 @@ game = ["number quessing game","countdown game"]
 menu = {"smoothie": 20.70, "Mcdowels": 73.65, "coktail": 98.20, "beer": 5.43, "wine": 61.76,
          "vodka": 47.00, "wiskey": 100.00,
          "palmwine" : 7.20, "soft_drink": 3.00, "water": 1.00,  "juice": 10.00, "tea": 2.60}
+
+         
 def greetings():
     print("greetings! our distingushed customer.")
     time.sleep(3)
