@@ -11,7 +11,7 @@ menu = {"smoothie": 20.70, "Mcdowels": 73.65, "coktail": 98.20, "beer": 5.43, "w
 
          
 def greetings():
-    print("greetings! our distingushed customer.")
+    print("greetings! our distingushed customer, its our pleasure to meet you 😊.")
     time.sleep(3)
     print("welcome to suncity eatry and bar")
     time.sleep(3)
